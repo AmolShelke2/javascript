@@ -64,3 +64,21 @@ var tip = [
 
 var finalValue = [bill[0] + [tip[0]], bill[1] + [tip[1]], [bill[2]] + [tip[2]]];
 console.log(finalValue, tip);
+
+// create a object in which you have to create a method that logs the age of the person
+// and logs the object on the console.
+
+var a = {
+  firstName: "a",
+  lastName: "b",
+  job: "Nothing",
+  birthYear: "1990",
+  isMarried: true,
+
+  calcAge: function () {
+    this.age = 2021 - this.birthYear;
+  },
+};
+
+a.calcAge();
+console.log(a);
