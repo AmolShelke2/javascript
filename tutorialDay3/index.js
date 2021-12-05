@@ -49,6 +49,8 @@ var john = {
 john.calcAge();
 console.log(john);
 */
+
+
 // arrays are all are objects
 
 // methods basic:
