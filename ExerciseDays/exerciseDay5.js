@@ -68,8 +68,6 @@ var john = {
   },
 };
 
-john.calcTips();
-console.log(john);
 
 var mark = {
   fullName: "Mark miller",
