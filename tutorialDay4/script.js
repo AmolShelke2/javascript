@@ -22,4 +22,28 @@ has almost nothing to do with java
  Ready to be used today 
  */
 
+// hoisting In javascript
 
+/*
+calculateAge(2004);
+
+function calculateAge(year) {
+  console.log(2021 - year);
+}
+
+// function exressions
+
+// this is will not work
+// retirement(2004);
+
+var retirement = function (year) {
+  console.log(65 - (2021 - year));
+};
+
+retirement(2004); //--> this is the correct way to call the function
+*/
+// variables
+
+console.log(age);
+var age = 17;
+console.log(age);
