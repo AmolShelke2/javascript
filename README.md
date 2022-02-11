@@ -16,7 +16,6 @@ To run this project, you will need to add the following environment variables to
 
 
 
-
 ## 🚀 About Me
 I'm a Student and coder who love to code front end❤️
 
