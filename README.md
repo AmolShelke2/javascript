@@ -14,13 +14,6 @@ it's feel nice to share our learning with the world so I make this repository th
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
-# language
-
-### -> Javascript
 
 
 
