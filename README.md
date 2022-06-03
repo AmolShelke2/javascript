@@ -10,12 +10,6 @@ it's feel nice to share our learning with the world so I make this repository th
 - [@AmolShelke2](https://www.github.com/AmolShelke2)
 
 
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-
-
 ## 🚀 About Me
 I'm a Student and coder who love to code front end❤️
 
